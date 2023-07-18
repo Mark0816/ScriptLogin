@@ -1,0 +1,247 @@
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 09-DEC-2021 10:08:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 09-DEC-2021 10:20:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 09-DEC-2021 10:34:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 09-DEC-2021 10:55:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 09-DEC-2021 11:22:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 10:16:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 10:25:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 10:26:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 10:29:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 13:51:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 14:31:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 14:33:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=192.168.x.x)(PORT=1521))(CONNECT_DATA=(SID=ORCLe)(CID=(PROGRAM=C:\Program?Files\PremiumSoft\Navicat?Premium\navicat.exe)(HOST=KYLE)(USER=User))))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 10.2.0.5.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 10.2.0.5.0 - Production
+  Time: 10-DEC-2021 16:08:28
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    TNS-12545: Message 12545 not found; No message file for product=NETWORK, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Message 515 not found; No message file for product=NETWORK, facility=TNS
+    nt secondary err code: 1001
+    nt OS err code: 0

@@ -1,0 +1,28 @@
+[[FilePath]]C:\Program Files\PremiumSoft\Navicat Premium\navicat.exe
+[[InitialTitle]]Navicat Premium
+[[MenuClass]]TActionMainMenuBar
+[[MenuNum]]1
+[[MenuValue]]1-1-3
+[[NextTitle]]Oracle - 新增連線
+[[InputClass]]TEdit
+[[InputClassNum]]6
+[[InputEditValue]]MarkDelphiTestMariaDB
+[[ComboBoxClass]]TComboBox
+[[ComboBoxNum]]4
+[[ComboBoxValue]]1
+[[InputClassNum]]1
+[[InputEditValue]]192.168.x.x
+[[InputClassNum]]5
+[[InputEditValue]]1521
+[[InputClassNum]]2
+[[InputEditValue]]ORCLe
+[[RadioBtnClass]]TRadioButton
+[[RadioBtnNum]]1
+[[InputClassNum]]4
+[[InputEditValue]]Mark
+[[InputClassNum]]3
+[[InputEditValue]]123456
+[[CheckBoxClass]]TCheckBox
+[[CheckBoxNum]]1
+[[ButtonClass]]TButton
+[[ButtonNum]]1

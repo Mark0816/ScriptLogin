@@ -1,0 +1,21 @@
+[[FilePath]]C:\Program Files\PremiumSoft\Navicat Premium\navicat.exe
+[[InitialTitle]]Navicat Premium
+[[MenuClass]]TActionMainMenuBar
+[[MenuNum]]1
+[[MenuValue]]1-1-6
+[[NextTitle]]MariaDB - 新增連線
+[[InputClass]]TEdit
+[[InputClassNum]]5
+[[InputEditValue]]MarkDelphiTestMariaDB
+[[InputClassNum]]1
+[[InputEditValue]]127.0.0.1
+[[InputClassNum]]4
+[[InputEditValue]]3306
+[[InputClassNum]]3
+[[InputEditValue]]root
+[[InputClassNum]]2
+[[InputEditValue]]123456
+[[CheckBoxClass]]TCheckBox
+[[CheckBoxNum]]1
+[[ButtonClass]]TButton
+[[ButtonNum]]1
